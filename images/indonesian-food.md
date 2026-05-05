@@ -1,8 +1,8 @@
------
+---
 title: Indonesian Food
-mdoel: GPT Image 2
+model: GPT Image 2
 image: indonesian-food.webp
------
+---
 
 {
   "image_prompt": {
