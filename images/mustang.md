@@ -1,8 +1,8 @@
------
+---
 title: Mustang
-mdoel: GPT Image 2
+model: GPT Image 2
 image: mustang.webp
------
+---
 
 Generate an infographic artwork depicting the Mustang GTD, seamlessly integrating a hyperrealistic photographic representation or a photorealistic computer-generated image of the subject with technical annotation elements positioned directly atop.
 
