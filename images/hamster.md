@@ -1,8 +1,8 @@
------
+---
 title: Hamster
-mdoel: GPT Image 2
+model: GPT Image 2
 image: hamster.webp
------
+---
 
 An exquisitely rendered, charmingly cute golden hamster situated within a vibrant, merry gymnasium, depicted with fluid, cinematic animation. 
 The plump rodent, soft and spherical, is elevating enormous black weights using its diminutive forelimbs, exhibiting a slight bounce due to exertion. 
