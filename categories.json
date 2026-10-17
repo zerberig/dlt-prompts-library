@@ -1,0 +1,274 @@
+[
+  {
+    "slug": "marketing-redes-sociales",
+    "name_es": "Marketing y redes sociales",
+    "name_en": "Marketing & Social Media",
+    "type": "texto",
+    "image": "marketing-redes-sociales.webp",
+    "count": 180
+  },
+  {
+    "slug": "email-marketing",
+    "name_es": "Email marketing y newsletters",
+    "name_en": "Email Marketing & Newsletters",
+    "type": "texto",
+    "image": "email-marketing.webp",
+    "count": 40
+  },
+  {
+    "slug": "ventas",
+    "name_es": "Ventas y generación de leads",
+    "name_en": "Sales & Lead Generation",
+    "type": "texto",
+    "image": "ventas.webp",
+    "count": 50
+  },
+  {
+    "slug": "ecommerce-etsy",
+    "name_es": "E-commerce, Etsy y Amazon",
+    "name_en": "E-commerce, Etsy & Amazon",
+    "type": "texto",
+    "image": "ecommerce-etsy.webp",
+    "count": 138
+  },
+  {
+    "slug": "seo",
+    "name_es": "SEO y posicionamiento",
+    "name_en": "SEO",
+    "type": "texto",
+    "image": "seo.webp",
+    "count": 68
+  },
+  {
+    "slug": "creacion-de-contenido",
+    "name_es": "Creación de contenido: YouTube, podcast y blog",
+    "name_en": "Content Creation: YouTube, Podcast & Blog",
+    "type": "texto",
+    "image": "creacion-de-contenido.webp",
+    "count": 88
+  },
+  {
+    "slug": "negocios-emprendimiento",
+    "name_es": "Negocios y emprendimiento",
+    "name_en": "Business & Entrepreneurship",
+    "type": "texto",
+    "image": "negocios-emprendimiento.webp",
+    "count": 108
+  },
+  {
+    "slug": "finanzas-contabilidad",
+    "name_es": "Finanzas y contabilidad",
+    "name_en": "Finance & Accounting",
+    "type": "texto",
+    "image": "finanzas-contabilidad.webp",
+    "count": 50
+  },
+  {
+    "slug": "escritura-creativa",
+    "name_es": "Escritura creativa y storytelling",
+    "name_en": "Creative Writing & Storytelling",
+    "type": "texto",
+    "image": "escritura-creativa.webp",
+    "count": 69
+  },
+  {
+    "slug": "educacion",
+    "name_es": "Educación y docencia",
+    "name_en": "Education & Teaching",
+    "type": "texto",
+    "image": "educacion.webp",
+    "count": 89
+  },
+  {
+    "slug": "productividad",
+    "name_es": "Productividad y TDAH",
+    "name_en": "Productivity & ADHD",
+    "type": "texto",
+    "image": "productividad.webp",
+    "count": 59
+  },
+  {
+    "slug": "carrera-cv",
+    "name_es": "Empleo, CV y entrevistas",
+    "name_en": "Jobs, Resume & Interviews",
+    "type": "texto",
+    "image": "carrera-cv.webp",
+    "count": 50
+  },
+  {
+    "slug": "programacion-datos",
+    "name_es": "Programación, vibe coding y datos",
+    "name_en": "Coding, Vibe Coding & Data",
+    "type": "texto",
+    "image": "programacion-datos.webp",
+    "count": 68
+  },
+  {
+    "slug": "bienestar-desarrollo-personal",
+    "name_es": "Bienestar y desarrollo personal",
+    "name_en": "Wellbeing & Personal Growth",
+    "type": "texto",
+    "image": "bienestar-desarrollo-personal.webp",
+    "count": 101
+  },
+  {
+    "slug": "relaciones-familia",
+    "name_es": "Relaciones, familia y bodas",
+    "name_en": "Relationships, Family & Weddings",
+    "type": "texto",
+    "image": "relaciones-familia.webp",
+    "count": 60
+  },
+  {
+    "slug": "estilo-de-vida",
+    "name_es": "Cocina, fitness, moda y hogar",
+    "name_en": "Cooking, Fitness, Fashion & Home",
+    "type": "texto",
+    "image": "estilo-de-vida.webp",
+    "count": 80
+  },
+  {
+    "slug": "viajes",
+    "name_es": "Viajes y nómada digital",
+    "name_en": "Travel & Digital Nomad",
+    "type": "texto",
+    "image": "viajes.webp",
+    "count": 40
+  },
+  {
+    "slug": "diseno-fotografia",
+    "name_es": "Diseño, branding y fotografía",
+    "name_en": "Design, Branding & Photography",
+    "type": "texto",
+    "image": "diseno-fotografia.webp",
+    "count": 50
+  },
+  {
+    "slug": "ia-y-prompts",
+    "name_es": "IA y generadores de prompts",
+    "name_en": "AI & Prompt Generators",
+    "type": "texto",
+    "image": "ia-y-prompts.webp",
+    "count": 40
+  },
+  {
+    "slug": "img-playeras-pod",
+    "name_es": "Diseños para playeras y POD",
+    "name_en": "T-shirt & POD Designs",
+    "type": "imagen",
+    "image": "img-playeras-pod.webp",
+    "count": 120
+  },
+  {
+    "slug": "img-logos-iconos",
+    "name_es": "Logos e iconos",
+    "name_en": "Logos & Icons",
+    "type": "imagen",
+    "image": "img-logos-iconos.webp",
+    "count": 90
+  },
+  {
+    "slug": "img-arte-ilustracion",
+    "name_es": "Arte e ilustración",
+    "name_en": "Art & Illustration",
+    "type": "imagen",
+    "image": "img-arte-ilustracion.webp",
+    "count": 170
+  },
+  {
+    "slug": "img-clipart-colorear",
+    "name_es": "Clipart y libros para colorear",
+    "name_en": "Clipart & Coloring Pages",
+    "type": "imagen",
+    "image": "img-clipart-colorear.webp",
+    "count": 100
+  },
+  {
+    "slug": "img-fotografia-realista",
+    "name_es": "Fotografía realista",
+    "name_en": "Photorealistic Images",
+    "type": "imagen",
+    "image": "img-fotografia-realista.webp",
+    "count": 80
+  },
+  {
+    "slug": "img-arquitectura-interiores",
+    "name_es": "Arquitectura e interiores",
+    "name_en": "Architecture & Interiors",
+    "type": "imagen",
+    "image": "img-arquitectura-interiores.webp",
+    "count": 90
+  },
+  {
+    "slug": "img-mockups-publicidad",
+    "name_es": "Mockups, producto y publicidad",
+    "name_en": "Mockups, Product & Ads",
+    "type": "imagen",
+    "image": "img-mockups-publicidad.webp",
+    "count": 110
+  },
+  {
+    "slug": "img-papeleria-eventos",
+    "name_es": "Invitaciones, portadas y papelería",
+    "name_en": "Invitations, Covers & Stationery",
+    "type": "imagen",
+    "image": "img-papeleria-eventos.webp",
+    "count": 60
+  },
+  {
+    "slug": "img-web-graficos",
+    "name_es": "Diseño web y elementos gráficos",
+    "name_en": "Web Design & Graphic Elements",
+    "type": "imagen",
+    "image": "img-web-graficos.webp",
+    "count": 30
+  },
+  {
+    "slug": "img-edicion",
+    "name_es": "Edición de imágenes con IA",
+    "name_en": "AI Image Editing",
+    "type": "imagen",
+    "image": "img-edicion.webp",
+    "count": 50
+  },
+  {
+    "slug": "vid-cinematico-naturaleza",
+    "name_es": "Video cinematográfico y naturaleza",
+    "name_en": "Cinematic & Nature Video",
+    "type": "video",
+    "image": "vid-cinematico-naturaleza.webp",
+    "count": 90
+  },
+  {
+    "slug": "vid-anuncios-producto",
+    "name_es": "Video para anuncios y producto",
+    "name_en": "Ad & Product Video",
+    "type": "video",
+    "image": "vid-anuncios-producto.webp",
+    "count": 40
+  },
+  {
+    "slug": "vid-historias-generos",
+    "name_es": "Video narrativo y de géneros",
+    "name_en": "Story & Genre Video",
+    "type": "video",
+    "image": "vid-historias-generos.webp",
+    "count": 50
+  },
+  {
+    "slug": "vid-educativo",
+    "name_es": "Video educativo y explicativo",
+    "name_en": "Educational & Explainer Video",
+    "type": "video",
+    "image": "vid-educativo.webp",
+    "count": 40
+  },
+  {
+    "slug": "vid-desde-imagen",
+    "name_es": "Imagen a video y video a video",
+    "name_en": "Image-to-Video & Video-to-Video",
+    "type": "video",
+    "image": "vid-desde-imagen.webp",
+    "count": 30
+  }
+]

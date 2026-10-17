@@ -1,41 +1,61 @@
 # DLT Prompts Library
 
-Biblioteca curada de **932 prompts** organizados en **18 categorías**, en español.
+Biblioteca curada de **2,578 prompts** en **34 categorías**, en español y en inglés.
 
 Fuente de verdad para la sección `/prompts` del sitio web de DLT Media.
 
 ## Estructura
 
-```
-01_AI_y_Automatizacion/        (107 prompts)
-02_Marketing_y_Branding/       (63)
-03_Social_Media_y_Contenido/   (104)
-04_Ventas_y_BizDev/            (19)
-05_Negocio_y_Estrategia/       (51)
-06_Carrera_y_Profesional/      (40)
-07_Educacion_y_Cursos/         (77)
-08_Libros_y_Escritura/         (97)
-09_Finanzas_e_Inversion/       (45)
-10_Salud_y_Bienestar/          (74)
-11_Bienes_Raices/              (26)
-12_Desarrollo_Personal/        (39)
-13_Analisis_e_Investigacion/   (37)
-14_Productividad_y_Templates/  (43)
-15_Tech_y_Ciberseguridad/      (43)
-16_Legal_y_Cumplimiento/       (20)
-17_Creatividad_y_Arte/         (34)
-18_Grants_y_Fundraising/       (13)
+```text
+categories.json            34 categorías: slug, nombre ES/EN, tipo y conteo
+es/<categoria>/<slug>.md   un prompt por archivo, en español
+en/<categoria>/<slug>.md   su gemelo en inglés (mismo `id`)
+covers/<categoria>.webp    portada de cada categoría (1200×800)
+images/                    galería de imágenes generadas con su prompt
 ```
 
-Cada prompt es un archivo `.md` independiente.
+| Tipo | Categorías | Prompts | Modelos |
+|---|---|---|---|
+| Texto | 19 | 1,428 | ChatGPT · Claude · Gemini |
+| Imagen | 10 | 900 | Nano Banana 2 · GPT Image 2 · Midjourney V8 |
+| Video | 5 | 250 | Veo 3.1 · Kling 3.0 |
+
+## Formato de cada prompt
+
+Frontmatter con valores en JSON y el prompt como cuerpo:
+
+```md
+---
+title: "Estrategia SEO de 12 meses lista para presentar"
+model: "ChatGPT · Claude · Gemini"
+image: "seo.webp"
+id: "SEO-0068"
+lang: es
+type: texto
+category: "SEO y posicionamiento"
+category_slug: "seo"
+subcategory: "Estrategia SEO"
+level: "avanzado"
+description: "…"
+tags: ["estrategia seo", "plan anual"]
+variables: ["tu producto o negocio", "público objetivo"]
+translation: "/en/seo/12-month-seo-strategy-ready-to-present"
+---
+
+Contexto: Tengo [tu producto o negocio] dirigido a [público objetivo]. …
+```
+
+- `variables` lista, en orden, cada `[texto entre corchetes]` del prompt. El sitio las convierte en campos que el usuario llena antes de copiar; el orden es el mismo en ES y EN.
+- Los prompts de imagen traen `aspect_ratio` y `mj_params`; los de video, `aspect_ratio` y `duration`.
+- `level`: básico, intermedio o avanzado (beginner, intermediate, advanced en EN).
 
 ## Uso
 
-Este repo es consumido por el sitio web de DLT Media en build time. Un script
-clona o descarga este contenido y genera el catálogo JSON estático que se sirve
-al navegador.
+El sitio clona este repo en build time (`npm run sync-prompts`) y genera un índice
+ligero para búsqueda más un JSON por prompt con ambos idiomas.
 
 Editar un prompt aquí → el sitio lo refleja en el siguiente build/deploy.
+Si agregas una categoría, súmala a `categories.json` y agrega su portada en `covers/`.
 
 ## Licencia
 
